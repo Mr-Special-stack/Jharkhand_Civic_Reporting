@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base:"/Jharkhand_Civic_Reporting"
+    base:"/Jharkhand_Civic_Reporting",
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
